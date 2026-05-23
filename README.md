@@ -36,6 +36,10 @@
 
 # | `schematic/` | KiCad PCB schematic and layout files |
 
+| `hardware/` | Real hardware photos and PCB testing images |
+
+| `code/` | TI C2000 firmware — PWM generation and soft-start logic |
+
 # 
 
 # \## Project Demo
