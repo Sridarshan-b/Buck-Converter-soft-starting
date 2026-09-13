@@ -44,7 +44,7 @@
 
 # \## Project Demo
 
-# \[▶️ Watch Hardware Demo on Google Drive](https://drive.google.com/file/d/1wLX9armRiDO4SZjXrzO\_7kywsPe46BNn/view?usp=drive\_link)
+# \[▶️ Watch Hardware Demo on Google Drive](https://drive.google.com/file/d/1wLX9armRiDO4SZjXrzO_7kywsPe46BNn/view?usp=sharing)
 
 # 
 
