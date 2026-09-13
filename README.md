@@ -54,7 +54,7 @@
 
 # \- KiCad — PCB design
 
-# \- TI C2000 (F2806x) — digital controller
+# \- TI C2000 (TMS320F280049C) — digital controller
 
 # 
 
